@@ -52,9 +52,6 @@ A simple blogging webapp built using NodeJS, ExpressJS and MongoDb. Authenticate
         ├── new.hbs
         ├── show.hbs
         ├── user.hbs
-    ├── comments
-        ├── edit.hbs
-        ├── new.hbs
     ├── partials
         ├── footer.hbs
         ├── header.hbs
